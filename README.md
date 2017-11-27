@@ -1,3 +1,2 @@
-# Quantum Materials Lab
-# At University of Washington
+# Quantum Materials Lab, University of Washington
 blah blah
