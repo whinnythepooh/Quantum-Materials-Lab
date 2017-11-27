@@ -11,4 +11,6 @@ Sincerely,
 
 Winnie Wang,
 
-Undergraduate Research Assistant Dept. of Physics and Astronomy, University of Washington
+Undergrad. Research Assistant
+
+Dept. of Physics and Astronomy, University of Washington
