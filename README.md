@@ -7,4 +7,5 @@ It also contains the presentation files that I presented to my laboratory PI wit
 
 Sincerely,
 
-Winnie Wang, Undergrad. Research Assistant, University of Washington
+Winnie Wang
+University of Washington
