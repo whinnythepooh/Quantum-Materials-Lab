@@ -1,6 +1,5 @@
-# Quantum Materials Lab
-# Unviersity of Washington
+# Quantum Materials Lab, Unviersity of Washington
 
-Please email me for any inquiries.
+Description above. Please email me for any inquiries.
 
 wangw33@uw.edu
